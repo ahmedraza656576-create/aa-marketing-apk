@@ -1,0 +1,6 @@
+{
+  "appId": "com.aamarketing.app",
+  "appName": "A.A Marketing",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
